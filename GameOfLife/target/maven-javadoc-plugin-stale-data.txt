@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/marwy/Documents/NetBeansProjects/GameOfLife/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/marwy/Documents/NetBeansProjects/GameOfLife/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GameOfLife 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'GameOfLife 1.0-SNAPSHOT API'
+pl.polsl.lab1.maria.wyganowska.gameoflife.controller
+pl.polsl.lab1.maria.wyganowska.gameoflife
+pl.polsl.lab1.maria.wyganowska.gameoflife.model
+pl.polsl.lab1.maria.wyganowska.gameoflife.view
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\src\main\java = 1728908791086
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\allclasses-index.html = 1730061246175
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\allpackages-index.html = 1730061246180
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\copy.svg = 1730061246262
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\element-list = 1730061246011
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\help-doc.html = 1730061246255
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\index-all.html = 1730061246237
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\index.html = 1730061246154
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\link.svg = 1730061246264
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\member-search-index.js = 1730061246199
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\module-search-index.js = 1730061246181
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\overview-summary.html = 1730061246249
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\overview-tree.html = 1730061246149
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\package-search-index.js = 1730061246182
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\script.js = 1730061246260
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\search-page.js = 1730061246280
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\search.html = 1730061246241
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\search.js = 1730061246277
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\stylesheet.css = 1730061246258
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\tag-search-index.js = 1730061246202
+C:\Users\marwy\Documents\NetBeansProjects\GameOfLife\target\reports\apidocs\type-search-index.js = 1730061246184
