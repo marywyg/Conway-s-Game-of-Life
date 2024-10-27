@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.polsl.lab1.maria.wyganowska.gameoflife"},{"l":"pl.polsl.lab1.maria.wyganowska.gameoflife.controller"},{"l":"pl.polsl.lab1.maria.wyganowska.gameoflife.model"},{"l":"pl.polsl.lab1.maria.wyganowska.gameoflife.view"}];updateSearchResults();
